@@ -1,6 +1,6 @@
-class pokemon {
+class Pokemon {
   final String name;
   final String image;
 
-  pokemon({required this.name, required this.image});
+  Pokemon({required this.name, required this.image});
 }
