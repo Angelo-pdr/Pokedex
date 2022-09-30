@@ -1,0 +1,111 @@
+.link{
+    text-decoration: none;
+}
+
+.grass{
+    background-image: url('../../asserts/types-bg/grass.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.fire{
+    background-image: url('../../asserts/types-bg/fire.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+.water{
+    background-image: url('../../asserts/types-bg/water.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+    
+}
+.bug{
+    background-image: url('../../asserts/types-bg/bug.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.normal{
+    background-image: url('../../asserts/types-bg/normal.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+    
+}
+
+.poison{
+    background-image: url('../../asserts/types-bg/poison.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.electric{
+    background-image: url('../../asserts/types-bg/electric.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+.ground{
+    background-image: url('../../asserts/types-bg/ground.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.fairy{
+    background-image: url('../../asserts/types-bg/fairy.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.psychic{
+    background-image: url('../../asserts/types-bg/psychic.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.fighting{
+    background-image: url('../../asserts/types-bg/fighting.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.rock{
+    background-image: url('../../asserts/types-bg/rock.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.ice{
+    background-image: url('../../asserts/types-bg/ice.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.ghost{
+    background-image: url('../../asserts/types-bg/ghost.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.dragon{
+    background-image: url('../../asserts/types-bg/dragon.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.dark{
+    background-image: url('../../asserts/types-bg/dark.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.flying{
+    background-image: url('../../asserts/types-bg/flying.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;      
+    }
+ 
+        
+.steel{
+    background-image: url('../../asserts/types-bg/steel.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+
+#water{
+    background-image: url('../../asserts/types-bg/water.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
