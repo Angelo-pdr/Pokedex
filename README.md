@@ -1,2 +1,1 @@
-# Pokedex
-Pokedex usando reactJs
+# <div align="center">Pokedex ReactJS</div>
